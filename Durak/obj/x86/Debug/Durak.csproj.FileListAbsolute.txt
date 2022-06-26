@@ -1,0 +1,228 @@
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Durak.exe
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Durak.pdb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\bvbor\source\repos\Durak\Durak\obj\x86\Debug\Durak.csproj.CoreCompileInputs.cache
+C:\Users\bvbor\source\repos\Durak\Durak\obj\x86\Debug\Durak.csproj.CopyComplete
+C:\Users\bvbor\source\repos\Durak\Durak\obj\x86\Debug\Durak.exe
+C:\Users\bvbor\source\repos\Durak\Durak\obj\x86\Debug\Durak.pdb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\bita.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\mouse.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\ace diamonds rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\ace diamonds rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\ace hearts rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\ace hearts rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\ace spades rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\ace spades rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\jack clubs rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\jack clubs rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\jack diamonds rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\jack diamonds rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\jack hearts rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\jack hearts rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\jack spades rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\jack spades rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\king clubs rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\king clubs rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\king diamonds rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\king diamonds rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\king hearts rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\king hearts rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\king spades rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\king spades rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\queen clubs rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\queen clubs rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\queen diamonds rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\queen diamonds rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\queen hearts rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\queen hearts rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\queen spades rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\queen spades rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\eight clubs rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\eight clubs rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\eight diamonds rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\eight diamonds rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\eight hearts rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\eight hearts rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\eight spades rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\eight spades rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\nine clubs rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\nine clubs rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\nine diamonds rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\nine diamonds rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\nine hearts rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\nine hearts rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\nine spades rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\nine spades rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\seven clubs rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\seven clubs rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\seven diamonds rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\seven diamonds rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\seven hearts rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\seven hearts rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\seven spades rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\seven spades rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\six clubs rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\six clubs rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\six diamonds rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\six diamonds rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\six hearts rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\six hearts rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\six spades rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\six spades rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\ten clubs rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\ten clubs rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\ten diamonds rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\ten diamonds rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\ten hearts rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\ten hearts rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\ten spades rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\ten spades rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\ace clubs rotate to the black side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\ace clubs rotate to the regular side.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\no add.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\take.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\your turn.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\you lost.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\you won.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\start.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\welcome.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\exit.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\try again.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Durak.exe.config
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\FactorizationMachineNative.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\LdaNative.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\CpuMathNative.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\netstandard.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.AppContext.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Collections.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Collections.Specialized.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.ComponentModel.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.ComponentModel.Primitives.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Console.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Data.Common.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Diagnostics.Process.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Drawing.Primitives.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Globalization.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.IO.Compression.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.IO.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.IO.FileSystem.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.IO.Pipes.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Linq.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Linq.Expressions.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Linq.Parallel.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Linq.Queryable.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Net.Http.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Net.NameResolution.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Net.Ping.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Net.Primitives.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Net.Requests.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Net.Security.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Net.Sockets.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Net.WebSockets.Client.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Net.WebSockets.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.ObjectModel.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Reflection.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Resources.Reader.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Resources.Writer.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Runtime.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Runtime.Handles.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Security.Claims.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Security.Principal.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Security.SecureString.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Text.Encoding.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Threading.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Threading.Tasks.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Threading.Thread.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Threading.ThreadPool.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Threading.Timer.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.ValueTuple.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Xml.XDocument.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Xml.XPath.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Newtonsoft.Json.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Buffers.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.CodeDom.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Collections.Immutable.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Memory.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Newtonsoft.Json.xml
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Buffers.xml
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Collections.Immutable.xml
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Memory.xml
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Numerics.Vectors.xml
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\CsvHelper.dll
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\CsvHelper.xml
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\close.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\game rules button.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\game rules.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\how to play button.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\bin\Windows\x86\Debug\Content\how to play.xnb
+C:\Users\bvbor\source\repos\Durak\Durak\obj\x86\Debug\Durak.csprojAssemblyReference.cache
